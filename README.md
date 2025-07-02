@@ -1,0 +1,2 @@
+# Klaster-Film-Disney-Mengungkap-Pola-Genre-dan-Pendapatan-ML
+Proyek ini bertujuan untuk menganalisis dan mengelompokkan film-film Disney berdasarkan karakteristik genre, peringkat MPAA (Motion Picture Association of America), dan pendapatan yang disesuaikan dengan inflasi. Dengan menggunakan teknik clustering K-Means dan reduksi dimensi PCA, kami mengidentifikasi pola-pola menarik dalam dataset film Disney.
